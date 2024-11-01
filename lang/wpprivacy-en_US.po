@@ -1,0 +1,29 @@
+# English translations for wpprivacy package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wpprivacy 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-01-13 19:27+0100\n"
+"Last-Translator: EWSEL <info@ewsel.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"Language: en_US\n"
+
+#: privacy-install.php:52 (it is just a line of note, to remind where our code
+#: appears)
+msgid "Der Datensatz wurde wie folgt geändert:"
+msgstr "The record has been changed as follows:"
+
+#: privacy-install.php:55
+msgid "Datensatz konnte nicht aktualisiert werden!"
+msgstr "Record could not be updated!"
